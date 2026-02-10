@@ -21,7 +21,7 @@ const CONFIG = {
     // Customize each question and its possible responses
     questions: {
         first: {
-            text: "Can I admit something first…?",                                    // First interaction
+            text: "ME SOWWY DO U STILL LOVE ME??",                                    // First interaction
             yesBtn: "Okay",                                             // Text for "Yes" button
             noBtn: "No",                                               // Text for "No" button
             secretAnswer: "I was being an idiot and I’m really sorry ❤️"           // Secret hover message

@@ -67,7 +67,7 @@ animations: {
 music: {
     enabled: true,
     autoplay: true,
-    musicUrl: "YOUR_CLOUDINARY_URL_HERE",
+    musicUrl: "https://res.cloudinary.com/dq6ovkjrw/video/upload/v1770706307/Midnight_Call_128k_i0o7fi.mp3",
     startText: "🎵 Play Music",
     stopText: "🔇 Stop Music",
     volume: 0.5
